@@ -18,3 +18,12 @@ I like to decide difficult tasks and try to do them well.
     * **ToDo-List &#8211;** youtube course learning *ReactJS* and *Typescript*
     * **plagin Select &#8211;** youtube course learning pure JS
     * **[TMSAPA](https://github.com/jelka2008/TMSAPA) &#8211;** personal project with *React, Redux, OSM (react-leaflet)*, now started adding *Typescript*
+
+### Experience
+* **2012-2019 &#8211;** *Energosbyt Minskenergo* - the electronic engineer
+* **2020-... &#8211;** *HugeTurtle* - the junior developer ReactJS. At now that project is closed, a number of design works were completed
+
+#### Languages skills
+* english - reading: A2, listening: beginer
+* russian - native language
+* belarusian - second language 
